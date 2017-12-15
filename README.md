@@ -8,10 +8,10 @@
 
 双击index.html，即可打开首页。点击首页中的链接，可转向相关的课程详情，也可通过最后的“Cam's Pizzeria”预定pizza。
 
-_** 若要使网站能正常展示运行，请确保网络能正常连通以下地址：**_
+_** 若要使网站能正常展示运行，请确保网络能正常连通以下地址：_
 1. Google字体库 https://fonts.googleapis.com/css?family=Open+Sans:400,700
 2. http://www.google-analytics.com/analytics.js
-3. https://lh4.ggpht.com ggpht.com
+3. https://lh4.ggpht.com
 4. https://developers.google.com
 
 ### 代码优化明细
