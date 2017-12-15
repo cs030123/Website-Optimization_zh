@@ -17,9 +17,9 @@ _** 若要使网站能正常展示运行，请确保网络能正常连通以下�
 ### 代码优化明细
 
 * index.html
-1. 压缩图片profilepic.jpg、所有CSS和js文件
-2. 延迟加载字体库，挪到window的onload事件中加载
-3. 2个js文件的加载添加async标志
+1. 压缩图片（img/profilepic.jpg和views/images/pizzeria.jpg）、CSS和js文件
+2. 2个js文件的加载添加async标志
+3. 内联压缩后的style.css和googleapis字体css
 4. print.css添加媒体标志print
 
 * views/js/main.js
